@@ -26,3 +26,4 @@ async def start(message: types.Message, command: CommandObject):
     ])
     await message.answer("Share this link to invite others:", reply_markup=keyboard)
 
+#zukocode
